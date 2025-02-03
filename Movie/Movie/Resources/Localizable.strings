@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Movies
+
+  Created by Camila Storck on 13/03/2024.
+  
+*/
+
+// MARK: - Movies Subscription List
+
+"MOVIES_SUBSCRIPTION_TITLE" = "Series que sigo";
+
+// MARK: - Movies List
+
+"MOVIES_LIST_TITLE" = "Recomendadas";
+
+// MARK: - Search
+
+"SEARCH_ADD_BUTTON" = "AGREGAR";
+"SEARCH_ADDED_BUTTON" = "AGREGADO";
+"SEARCH_PROMPT_TITLE" = "TV Show Reminder";
+
+// MARK: - Details
+
+"SUBSCRIBED" = "Suscripto";
+"SUSCRIBE" = "Suscribirme";
+"SUMMARY_TITLE" = "Resúmen";
